@@ -1,5 +1,5 @@
 #The UI is the same as the Booking.com website.
-<img width="1272" height="898" alt="Image" src="https://github.com/user-attachments/assets/1c65436e-3231-44e2-aa7b-2511da3a867b" />
+<h1><img width="1272" height="898" alt="Image" src="https://github.com/user-attachments/assets/1c65436e-3231-44e2-aa7b-2511da3a867b" /></h1>
 # reservation
 This repository contains the frontend of a hotel booking application just like booking.com. 
 
